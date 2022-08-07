@@ -1,4 +1,4 @@
 data/
 LabelIMG/
 yolo_env/
-data.zip
+yolov3_training_last.weights
